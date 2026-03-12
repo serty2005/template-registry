@@ -1,0 +1,6 @@
+services:
+  app:
+    image: ${APP_IMAGE}
+    build:
+      context: .
+      dockerfile: Dockerfile

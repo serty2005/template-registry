@@ -1,0 +1,10 @@
+.git
+.gitignore
+.codex
+docs
+app.db
+*.log
+docker-compose*.yml
+.env
+.env.*
+!/.env.example
